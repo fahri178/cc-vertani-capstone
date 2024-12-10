@@ -8,9 +8,9 @@ Created ad Fahri Kurniawan As a Cloud Computing
    ## Predict by Post
    - POST http://127.0.0.1:5001/pred
      Method ini akan mengeluarkan response
-   ```
+```
    {"id": "abc123",
-    ``` 
+``` 
     "prediction": "Tanah terdeteksi",
  ```
     "suggested_crop": "Sawi",
