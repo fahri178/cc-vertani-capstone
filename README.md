@@ -11,7 +11,7 @@ Created ad Fahri Kurniawan As a Cloud Computing
 ```
    {
 ```
-"id": "abc123",
+    "id": "abc123",
 ``` 
     "prediction": "Tanah terdeteksi",
 ```
