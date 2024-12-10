@@ -6,5 +6,5 @@ Created ad Fahri Kurniawan As a Cloud Computing
 3. pip install - r requirements.txt
 
    ## Predict by Post
-   
-
+   -POST http://127.0.0.1:5001/pred
+   -GET http://127.0.0.1:5001/history
