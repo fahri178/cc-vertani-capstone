@@ -9,16 +9,18 @@ Created ad Fahri Kurniawan As a Cloud Computing
    - POST http://127.0.0.1:5001/pred
      Method ini akan mengeluarkan response
 ```
-   {"id": "abc123",
+   {
+```
+"id": "abc123",
 ``` 
     "prediction": "Tanah terdeteksi",
- ```
+```
     "suggested_crop": "Sawi",
-   ```
+```
     "reason": "Cocok ditanam di tanah lembab dengan pH netral.",
-   ```
+```
     "created_at": "2024-12-10 15:00:00"
-   ```
+```
       }
    
    - GET http://127.0.0.1:5001/history
